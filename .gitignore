@@ -42,3 +42,14 @@ build/
 *.egg-info/
 
 .idea
+
+# Code quality supervisor additions
+.venv/
+.mypy_cache/
+.DS_Store
+*.log
+*.tgz
+node_modules/
+.env
+.env.*
+coverage/
